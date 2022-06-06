@@ -1,0 +1,1 @@
+Olá esse é op projeto do meu primeiro Bot para Discord. e também meu pprimeiro Commit. Sou apenas um estudante.
